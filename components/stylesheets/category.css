@@ -79,6 +79,16 @@
     z-index: 1;
 }
 
+.category__button{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.category__button i{
+    color: var(--primary-color);
+}
+
 
 .category__image img{
     height: 100%;
