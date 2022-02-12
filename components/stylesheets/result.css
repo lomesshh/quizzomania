@@ -32,9 +32,9 @@ span{
   }
 
 input[type="radio"] {
-    width: 30px;
-    height: 30px;
-    border-radius: 15px;
+    width: 2.4rem;
+    height: 2.4rem;
+    border-radius: 0.9rem;
     border: 2px solid var(--primary-color);
     background-color: var(--background-color);
     -webkit-appearance: none;
@@ -55,14 +55,14 @@ input[type="radio"] {
   
   label span:first-of-type {
     position: relative;
-    left: -24px;
-    font-size: 15px;
+    left: -1.5rem;
+    font-size: 0.9rem;
     color: var(--primary-color);
   }
   
   label span {
     position: relative;
-    top: -10px;
+    top: -0.6rem;
     cursor: pointer;
   }
 
