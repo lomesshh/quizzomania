@@ -12,20 +12,14 @@ You can add Creatively to your page via this given link.
 
 ## Screens
  - Homepage - [Direct link](https://quizzomania.netlify.app/)
- - Alert
- - Badge
- - Button
- - Card
- - Image
- - Input
- - Text Utilities
- - Lists
- - Navigation
- - Modal
- - Rating
- - Toast
- - Grid
- - Slider
+ - Category - [Direct link](https://quizzomania.netlify.app/components/category.html)
+ - Rule Page - [Direct link](https://quizzomania.netlify.app/components/rules.html)
+ - MCQ Question Page - [Direct link](https://quizzomania.netlify.app/components/questions.html)
+ - Result Page - [Direct link](https://quizzomania.netlify.app/components/result.html)
+ - Quizz High Score Board - [Direct link](https://quizzomania.netlify.app/components/scoreboard.html)
+ - Login - [Direct link](https://quizzomania.netlify.app/components/login.html)
+ - SignUp - [Direct link](https://quizzomania.netlify.app/components/signup.html)
+ - Profile Page - [Direct link](https://quizzomania.netlify.app/components/profile.html)
 
 ## Live
 [Quizzomania](https://quizzomania.netlify.app/)
