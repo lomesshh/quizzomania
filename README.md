@@ -9,7 +9,7 @@ we have variety of categories at our webapp you will have to choose a single cat
 
 ## Screens
 
-Note : If you are not able to access all components from main screen we have provided direct link for all components seperately here for you.
+> Note : If you are not able to access all components from main screen we have provided direct link for all components seperately here for you.
 
  - Homepage - [Direct link](https://quizzomania.netlify.app/)
  - Category - [Direct link](https://quizzomania.netlify.app/components/category.html)
