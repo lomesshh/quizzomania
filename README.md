@@ -1,14 +1,8 @@
 # Quizzomania
 
-Creatively is a lightweight, responsive & modern CSS library. it is just like bootstrap you just need to add proper classes to your HTML elements and you are good to go ! 
-
-## Installation
-
-You can add Creatively to your page via this given link.
-
-```html
-<link rel="stylesheet" href="https://creative-ly.netlify.app/creatively.css">
-```
+A Quizzomania is a quick and informal assessment of student knowledge. We can often used quizzomania in higher education environments to briefly test a student's level of comprehension regarding.
+The Quizzomania is designed to increase learning by requiring students to write a multiple-choice question in a game form. 
+we have variety of categories at our webapp you will have to choose a single category from them and attend all the question in given time period.
 
 ## Screens
  - Homepage - [Direct link](https://quizzomania.netlify.app/)
