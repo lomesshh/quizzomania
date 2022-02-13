@@ -4,6 +4,10 @@ A Quizzomania is a quick and informal assessment of student knowledge. We can of
 The Quizzomania is designed to increase learning by requiring students to write a multiple-choice question in a game form. 
 we have variety of categories at our webapp you will have to choose a single category from them and attend all the question in given time period.
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 ## Screens
  - Homepage - [Direct link](https://quizzomania.netlify.app/)
  - Category - [Direct link](https://quizzomania.netlify.app/components/category.html)
@@ -15,8 +19,18 @@ we have variety of categories at our webapp you will have to choose a single cat
  - SignUp - [Direct link](https://quizzomania.netlify.app/components/signup.html)
  - Profile Page - [Direct link](https://quizzomania.netlify.app/components/profile.html)
 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+
 ## Live
 [Quizzomania](https://quizzomania.netlify.app/)
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 
 ## Demo
 https://user-images.githubusercontent.com/78649480/151971914-daa7185d-b736-4d04-bcd2-fb53c687f5ab.mp4
