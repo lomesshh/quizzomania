@@ -11,15 +11,18 @@ we have variety of categories at our webapp you will have to choose a single cat
 
 > Note : If you are not able to access all components from main screen we have provided direct link for all components seperately here for you.
 
- - Homepage - [Direct link](https://quizzomania.netlify.app/)
- - Category - [Direct link](https://quizzomania.netlify.app/components/category.html)
- - Rule Page - [Direct link](https://quizzomania.netlify.app/components/rules.html)
- - MCQ Question Page - [Direct link](https://quizzomania.netlify.app/components/questions.html)
- - Result Page - [Direct link](https://quizzomania.netlify.app/components/result.html)
- - Quizz High Score Board - [Direct link](https://quizzomania.netlify.app/components/scoreboard.html)
- - Login - [Direct link](https://quizzomania.netlify.app/components/login.html)
- - SignUp - [Direct link](https://quizzomania.netlify.app/components/signup.html)
- - Profile Page - [Direct link](https://quizzomania.netlify.app/components/profile.html)
+- P0
+   - Homepage - [Direct link](https://quizzomania.netlify.app/)
+   - Quizzes by Category - [Direct link](https://quizzomania.netlify.app/components/category.html)
+   - Rules Page for while attempting Quiz - [Direct link](https://quizzomania.netlify.app/components/rules.html)
+   - MCQ based Quiz Question Page - [Direct link](https://quizzomania.netlify.app/components/questions.html)
+   - Result Page with Answers & Score - [Direct link](https://quizzomania.netlify.app/components/result.html)
+ - P1
+   - Login - [Direct link](https://quizzomania.netlify.app/components/login.html)
+   - SignUp - [Direct link](https://quizzomania.netlify.app/components/signup.html)
+   - Profile Page - [Direct link](https://quizzomania.netlify.app/components/profile.html)
+   - Quizz High Score Board - [Direct link](https://quizzomania.netlify.app/components/scoreboard.html)
+
 
 
 ## Live
