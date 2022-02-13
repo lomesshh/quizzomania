@@ -7,7 +7,7 @@ The Quizzomania is designed to increase learning by requiring students to write 
 we have variety of categories at our webapp you will have to choose a single category from them and attend all the question in given time period.
 
 
-## Screens
+## Screens ( All screens are responsive )
 
 > Note : If you are not able to access all components from main screen we have provided direct link for all components seperately here for you.
 
