@@ -1,10 +1,14 @@
-# Quizzomania
+<p align="center">
+  <a href="https://github.com/sohamsshah/sodium-ui" rel="noopener" target="_blank"><img width="150" src="./components/images/quizzlogo.png" alt="Material-UI logo"></a></p>
+</p>
 
+<h1 align="center"><b>Quizzomania</b></h1>
 
-## Introduction
-A Quizzomania is a quick and informal assessment of student knowledge. We can often used quizzomania in higher education environments to briefly test a student's level of comprehension regarding.
+<div align="center">
+A Quizzomania is a quick and informal assessment of student knowledge. We can often used quizzomania in higher education environments to briefly test a student's level of comprehension regarding. 
 The Quizzomania is designed to increase learning by requiring students to write a multiple-choice question in a game form. 
 we have variety of categories at our webapp you will have to choose a single category from them and attend all the question in given time period.
+</div><br/>
 
 
 ## Screens ( All screens are responsive )
